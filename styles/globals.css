@@ -1,0 +1,19 @@
+.buttonWrapper {
+  text-align: center;
+}
+
+.styleTextField {
+  background-color: #f4f4f4;
+  padding: 5px 10px;
+  border-radius: 6px;
+}
+.styleSearchField{
+  background-color: #f4f4f4;
+  padding: 3px 10px;
+  border-radius: 6px;
+  font-size: 11px;
+}
+
+.MuiOutlinedInput-root{
+  border:none
+}
